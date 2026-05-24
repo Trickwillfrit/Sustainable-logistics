@@ -1,0 +1,51 @@
+Facility,Town__Facility_,longitude,latitude,Size_Category,Beds_Total,Hospital_Cost,Institution_x,Hospital_Emissions,Is_Administrative
+Aigle Pôle Physio-Ergo d'Aigle,Aigle,2563637.958,1128742.004,Small,21.0,44450.0,HÃ´pital Riviera-Chablais Vaud-Valais,222.90811023622047,False
+Biotonus,Montreux,2560124.004,1142110.002,Small,30.0,63000.0,"Biotonus, Clinique Bon-Port SA centre de soins mÃ©dicaux & esthÃ©tiques",79.776,False
+CIC,Clarens,2557986.009,1143430.389,Small,35.0,73500.0,Clinique CIC Riviera,161.664,False
+Centre Hospitalier Universitaire Vaudois,Lausanne,2538698.004,1152910.0,Major Center,1175.0,5170000.0,CHUV Centre Hospitalier Universitaire Vaudois,22081.32307692308,False
+Chamoyron,St-LÃ©gier-La ChiÃ©saz,2556819.999,1146603.0,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Château-d'Oex,ChÃ¢teau-d'Oex,2575986.0,1146806.002,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Clinique Bois-Bougy,Nyon,2506917.96,1136418.002,Moderate,84.0,176400.0,Clinique Bois-Bougy SÃ rl,207.39,False
+Clinique Bois-Cerf,Lausanne,2537982.885,1151497.132,Moderate,68.0,142800.0,Clinique Bois-Cerf,586.432,False
+Clinique Cecil,Lausanne,2537335.999,1152432.003,Moderate,86.0,180600.0,Clinique Cecil,851.49,False
+Clinique La Prairie,Clarens,2557396.341,1143703.733,Small,34.0,71400.0,Clinique la Prairie SA,136.672,False
+Clinique Valmont,Glion,2560965.78,1141779.107,Moderate,59.0,123900.0,GSMN Schweiz SA - Clinique Valmont,268.896,False
+Clinique de Genolier,Genolier,2506121.001,1144523.002,Moderate,112.0,436800.0,GSMN Schweiz SA - Clinique de Genolier,525.888,False
+Clinique de Montchoisi,Lausanne,2538370.998,1151258.001,Small,29.0,60900.0,GSMN Schweiz SA - Clinique de Montchoisi,195.264,False
+Clinique de la Source,Lausanne,2537793.003,1153196.003,Moderate,93.0,195300.0,Clinique de La Source,982.432,False
+Clinique la Lignière,Gland,2511657.001,1142318.0,Moderate,94.0,197400.0,Clinique la LigniÃ¨re,308.1,False
+Clinique la Métairie,Nyon,2506895.001,1136512.0,Moderate,74.0,155400.0,Clinique PrivÃ©e La MÃ©tairie SÃ rl,208.96,False
+Espace Santé Rennaz,Rennaz,2560100.0,1136410.002,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Fondation Rive-Neuve,Blonay,2557231.0,1145981.002,Small,20.0,65000.0,Fondation Rive-Neuve - UnitÃ© de Soins Palliatifs,137.02,False
+Grand-Chêne,Aigle,2563462.097,1129042.559,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+HRC,Rennaz,2560179.999,1136600.002,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Hôpital d'Orbe,Orbe,2530835.002,1175774.001,Small,20.0,64168.19013,Etablissements Hospitaliers du Nord Vaudois (eHnv),189.76621621621624,False
+Hôpital d'Yverdon-les-Bains,Yverdon-les-Bains,2539519.999,1180398.001,Moderate,132.0,513345.521,Etablissements Hospitaliers du Nord Vaudois (eHnv),1252.457027027027,False
+Hôpital de Chamblon,Chamblon,2536613.668,1181270.487,Moderate,53.0,110566.7276,Etablissements Hospitaliers du Nord Vaudois (eHnv),502.880472972973,False
+Hôpital de Gilly,Gilly,2512939.0,1147176.0,Small,40.0,84000.0,EHC Ensemble hospitalier de la CÃ´te,435.26981818181815,False
+Hôpital de Lavaux,Cully,2545231.999,1149050.003,Moderate,56.0,117600.0,HÃ´pital de Lavaux,353.54,False
+Hôpital de Morges,Morges,2527964.998,1152764.004,Big,215.0,838500.0,EHC Ensemble hospitalier de la CÃ´te,2339.575272727273,False
+Hôpital de Nyon,Nyon,2506830.003,1137618.002,Moderate,120.0,468000.0,Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,1161.0545454545456,False
+Hôpital de Rolle,Rolle,2516134.002,1146492.001,Small,45.0,94500.0,Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,435.3954545454545,False
+Hôpital de Saint-Loup,Pompaples,2528465.587,1168770.391,Moderate,53.0,110566.7276,Etablissements Hospitaliers du Nord Vaudois (eHnv),502.880472972973,False
+Hôpital de la Vallée de Joux,Le Sentier,2506729.023,1161854.363,Small,14.0,45500.0,PÃ´le santÃ© VallÃ©e de Joux - HÃ´pital de la VallÃ©e de Joux,284.06,False
+Hôpital ophtalmique Jules-Gonin,Lausanne,2537438.998,1152918.001,Small,9.0,29250.0,HÃ´pital Ophtalmique Jules Gonin Fondation Asile des Aveugles,617.088,False
+Hôpital psychiatrique Nant,Corsier-sur-Vevey,2555005.367,1147684.165,Small,41.0,86100.0,Secteur Psychiatrique Est Fondation de Nant,367.4916049382716,False
+Hôpital d'Aubonne,Aubonne,2519347.998,1149438.003,Small,20.0,65000.0,EHC Ensemble hospitalier de la CÃ´te,217.63490909090908,False
+Institution de Lavigny,Lavigny,2521158.003,1150633.0,Small,41.0,86100.0,Institution de Lavigny,259.46,False
+La Tour-de-Peilz,La Tour-de-Peilz,2555510.001,1144572.004,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Les Communaux,Vevey,2554639.004,1145675.005,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Les Moulins,Vevey,2554224.0,1146190.003,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Les Rosiers,Ste-Croix,2527977.998,1185772.004,Small,18.0,58500.0,RÃ©seau SantÃ© Balcon du Jura.vd (RSBJ),425.82,False
+Molage,Aigle,2563752.004,1129846.004,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Montreux,Montreux,2559433.316,1142718.606,Small,4.0,13650.0,Secteur Psychiatrique Est Fondation de Nant,35.852839506172835,False
+Mottex Réadaptation/gériatrie,Blonay,2557475.961,1145610.001,Small,42.0,88900.0,HÃ´pital Riviera-Chablais Vaud-Valais,445.81622047244093,False
+Moudon,Moudon,2551244.961,1168880.001,Moderate,105.0,409500.0,HÃ´pital Intercantonal de la Broye (HIB),968.1690789473683,False
+Payerne,Payerne,2562405.998,1185424.003,Small,47.0,98700.0,HÃ´pital Intercantonal de la Broye (HIB),433.3709210526316,False
+Permanence de Cossonay,Cossonay,2528441.96,1162968.003,Small,38.0,79608.04388,Etablissements Hospitaliers du Nord Vaudois (eHnv),360.5558108108108,False
+Providence Permanence médicale Riviera Réadaptation/gériatrie,Vevey,2555111.96,1145345.002,Moderate,64.0,133350.0,HÃ´pital Riviera-Chablais Vaud-Valais,679.3390026246719,False
+Psychiatrie Nord CPNVD,Yverdon-les-Bains,2539580.999,1181501.002,Small,50.0,105000.0,CHUV Centre Hospitalier Universitaire Vaudois,939.6307692307694,False
+Psychiatrie Ouest Hôpital de Prangins,Prangins,2509154.004,1139236.001,Moderate,75.0,157500.0,CHUV Centre Hospitalier Universitaire Vaudois,1409.446153846154,False
+Pôle Santé Pays-d'Enhaut,ChÃ¢teau-d'Oex,2577137.957,1147446.0,Small,13.0,42250.0,PÃ´le santÃ© du Pays-d'Enhaut,185.888,False
+Rennaz Centre hospitalier de Rennaz,Rennaz,2560179.958,1136600.001,Big,254.0,990600.0,HÃ´pital Riviera-Chablais Vaud-Valais,2696.1266666666666,False
+Samaritain Site administratif,Vevey,2555143.957,1145697.003,Small,0.0,0.0,HÃ´pital Riviera-Chablais Vaud-Valais,0.0,True
