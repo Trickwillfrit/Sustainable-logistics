@@ -1,0 +1,13 @@
+KPI,Value
+Open hospitals,50
+Total running cost (MCHF),12.17
+Total beds (per facility),3619
+Total demand in beds (simultaneous),1941.5
+Average distance (km),4.74
+Pop-weighted avg distance (km),2.84
+Maximum distance (km),15.93
+Hospital emissions — annual (t CO2/yr),44775.5
+Hospital emissions — 5-day (t CO2),613.36
+Transport emissions — 5-day (t CO2),0.6615
+Total emissions — 5-day (t CO2),614.02
+Capacity utilization,53.6%
